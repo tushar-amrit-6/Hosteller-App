@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/register_bk_color"
+    tools:context=".userHomeFragment">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/baloo"
+                android:padding="10dp"
+                android:text="Welcome to Hosteller app"
+                android:textAllCaps="true"
+                android:textSize="20sp" />
+
+                <ImageView
+                    android:id="@+id/power"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/power"
+                    android:layout_weight="0.1"/>
+
+            </LinearLayout>
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="150dp">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:layout_margin="20dp"
+                    android:background="@drawable/background1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/baloo"
+                        android:padding="25dp"
+                        android:text="Hello Tushar"
+                        android:textColor="@color/black"
+                        android:textSize="30sp"
+                        android:id="@+id/home_name"/>
+
+
+                </RelativeLayout>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_height="103dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="6dp"
+                    android:src="@drawable/user1" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="180dp">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="175dp"
+                    android:layout_margin="20dp"
+                    android:background="@drawable/background2">
+
+                    <ImageView
+                        android:id="@+id/slot_img"
+                        android:layout_width="120dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/hostel4" />
+
+                    <TextView
+                        android:id="@+id/home_slot"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:fontFamily="@font/baloo"
+                        android:padding="5dp"
+                        android:text="Time Slot\n 15/02/21"
+                        android:textColor="@color/whiteTextColor"
+                        android:textSize="26sp"
+                        android:layout_toRightOf="@id/slot_img"
+                        />
+
+
+                </RelativeLayout>
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="180dp">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:layout_margin="20dp"
+                    android:background="@drawable/background3">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/baloo"
+                        android:padding="25dp"
+                        android:text="Mess Slot \n 3pm to 4pm"
+                        android:textColor="@color/whiteTextColor"
+                        android:textSize="30sp" />
+
+
+                </RelativeLayout>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_height="103dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="6dp"
+                    android:src="@drawable/mess" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_margin="20dp"
+                android:background="@drawable/background4">
+
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:src="@drawable/id7" />
+
+                <TextView
+                    android:id="@+id/home_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:fontFamily="@font/baloo"
+                    android:padding="25dp"
+                    android:text="Unique ID\n123A89"
+                    android:textColor="@color/whiteTextColor"
+                    android:textSize="30sp" />
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

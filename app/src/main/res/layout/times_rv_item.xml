@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="4dp"
+    app:cardUseCompatPadding="true"
+    android:id="@+id/card_slide"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/img"
+            android:src="@drawable/ic_date_range_black_24dp">
+
+        </ImageView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot_times"
+            android:text="Slot 1"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_below="@+id/img"
+            android:textAlignment="center"
+            android:textColor="@color/primaryTextColor"
+            />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
