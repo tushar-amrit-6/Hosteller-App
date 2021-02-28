@@ -14,17 +14,17 @@ S.N. |Case | Status |
 
 <h1 align="center">Screenshots</h1>
 <h2 align="center">User's Landing Page</h2>
-<img align="centre" src="https://github.com/tushar-amrit-6/HostellerApp/blob/master/screenshots/user.jpeg" /><br>
+<img align="centre" src="https://github.com/tushar-amrit-6/Hosteller-App/blob/master/screenshots/WhatsApp%20Image%202021-02-28%20at%2012.24.59%20AM.jpeg" /><br>
 <h2 align="center">User Login</h2>
-<img align="centre" src="https://github.com/tushar-amrit-6/HostellerApp/blob/master/screenshots/login.jpeg" /><br>
+<img align="centre" src="https://github.com/tushar-amrit-6/Hosteller-App/blob/master/screenshots/WhatsApp%20Image%202021-02-28%20at%2012.25.40%20AM.jpeg" /><br>
 <h2 align="center">User Registration</h2>
-<img align="centre" src="https://github.com/tushar-amrit-6/HostellerApp/blob/master/screenshots/registration.jpeg" /><br>
+<img align="centre" src="https://github.com/tushar-amrit-6/Hosteller-App/blob/master/screenshots/WhatsApp%20Image%202021-02-28%20at%2012.26.33%20AM.jpeg" /><br>
 <h2 align="center">ChatBot for Self Diagnosis</h2>
-<img align="centre" src="https://github.com/tushar-amrit-6/HostellerApp/blob/master/screenshots/bot.jpeg" /><br>
+<img align="centre" src="https://github.com/tushar-amrit-6/Hosteller-App/blob/master/screenshots/WhatsApp%20Image%202021-02-28%20at%2012.20.56%20AM.jpeg" /><br>
 <h2 align="center">Chat Room for student with same arrival slot</h2>
-<img align="centre" src="https://github.com/tushar-amrit-6/HostellerApp/blob/master/screenshots/chat.jpeg" /><br>
+<img align="centre" src="https://github.com/tushar-amrit-6/Hosteller-App/blob/master/screenshots/WhatsApp%20Image%202021-02-28%20at%2012.19.36%20AM.jpeg" /><br>
 <h2 align="center">Visualization of High Risk area</h2>
-<img align="centre" src="https://github.com/tushar-amrit-6/HostellerApp/blob/master/screenshots/Map.jpeg" /><br>
+<img align="centre" src="https://github.com/tushar-amrit-6/Hosteller-App/blob/master/screenshots/WhatsApp%20Image%202021-02-28%20at%2012.22.29%20AM.jpeg" /><br>
 
 
 
