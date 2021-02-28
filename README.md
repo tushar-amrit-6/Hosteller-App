@@ -1,5 +1,7 @@
 <h1 align="center">Hosteller App</h1>
  An Andriod Application which aims provides to you a seamless and safe return and stay of the thousands of college students back to their hostels using our tailor made ML model.
+ 
+ 
 <h1 align="center">Features Implemented</h1>
 
 S.N. |Case | Status | 
@@ -27,6 +29,9 @@ S.N. |Case | Status |
 <img align="centre" src="https://github.com/tushar-amrit-6/Hosteller-App/blob/master/screenshots/WhatsApp%20Image%202021-02-28%20at%2012.22.29%20AM.jpeg" /><br>
 
 
+<h1 align="center">Installation Steps</h1>
+Download and install the apk.
 
-
+<h1 align="center">Declaration of Previous Work</h1>
+All the code has been written in the 24 hrs of hackathon
 
